@@ -10,6 +10,7 @@ The `semver` package provides the ability to work with [Semantic Versions](http:
 [![Stability:
 Active](https://masterminds.github.io/stability/active.svg)](https://masterminds.github.io/stability/active.html)
 [![Build Status](https://travis-ci.org/Masterminds/semver.svg)](https://travis-ci.org/Masterminds/semver) [![Build status](https://ci.appveyor.com/api/projects/status/jfk66lib7hb985k8/branch/master?svg=true&passingText=windows%20build%20passing&failingText=windows%20build%20failing)](https://ci.appveyor.com/project/mattfarina/semver/branch/master) [![GoDoc](https://godoc.org/github.com/Masterminds/semver?status.svg)](https://godoc.org/github.com/Masterminds/semver) [![Go Report Card](https://goreportcard.com/badge/github.com/Masterminds/semver)](https://goreportcard.com/report/github.com/Masterminds/semver)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmattfarina%2Fsemver.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmattfarina%2Fsemver?ref=badge_shield)
 
 If you are looking for a command line tool for version comparisons please see
 [vert](https://github.com/Masterminds/vert) which uses this library.
@@ -184,3 +185,7 @@ version didn't meet the constraint is returned. For example,
 
 If you find an issue or want to contribute please file an [issue](https://github.com/Masterminds/semver/issues)
 or [create a pull request](https://github.com/Masterminds/semver/pulls).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmattfarina%2Fsemver.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmattfarina%2Fsemver?ref=badge_large)
